@@ -10,7 +10,7 @@
 
 ## The 10 classes to predict are:
 
-![alt text](https://github.com/arun-apad/distracted_driver_computer_vision/blob/master/ddd2.png)
+![alt text](https://github.com/arun-apad/distracted_driver_computer_vision/blob/master/ddd2.gif)
 
 * c0: safe driving
 * c1: texting - right
