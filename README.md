@@ -22,3 +22,5 @@
 * c7: reaching behind
 * c8: hair and makeup
 * c9: talking to passenger
+
+#### This solution has an accracy of 80% and was trained on AWS GPU using pretrained weights from VGG.
